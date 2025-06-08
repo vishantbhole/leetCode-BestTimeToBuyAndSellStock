@@ -4,7 +4,6 @@ class Solution(object):
         :type prices: List[int]
         :rtype: int
         """
-
         length = len(prices)
         
         max_profit = 0
